@@ -59,7 +59,7 @@ export default function InventoryList({ items, fetchItems, setEditItem, setItems
               <tr key={i.id} className="border-b hover:bg-gray-50">
                 <td className="p-2">{i.name}</td>
                 <td className="p-2">{i.quantity}</td>
-                <td className="p-2">${i.price}</td>
+                <td className="p-2">Ksh. {i.price}</td>
                 <td className="p-2 text-right space-x-2">
                   <button onClick={() => setEditItem(i)} className="text-yellow-600 hover:text-yellow-800">
                     <FaEdit />

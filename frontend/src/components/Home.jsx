@@ -7,7 +7,7 @@ export default function Home() {
         Welcome to Inventory Tracker
       </h1>
       <p className="text-gray-700 max-w-lg mb-6">
-        Keep track of your stock items easily — add, edit, search, and manage
+        Keep track of your stock items easily add, edit, search and manage
         your inventory in a clean, simple interface.
       </p>
       <Link
