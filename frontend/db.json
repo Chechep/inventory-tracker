@@ -1,0 +1,23 @@
+{
+    "inventory": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "quantity": 5,
+        "price": 1200
+      },
+      {
+        "id": 2,
+        "name": "Phone",
+        "quantity": 10,
+        "price": 800
+      },
+      {
+        "id": 3,
+        "name": "Headphones",
+        "quantity": 15,
+        "price": 150
+      }
+    ]
+  }
+  
